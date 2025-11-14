@@ -105,16 +105,116 @@
 }
 
     
-    { "id": "nofrills_fru_1",  "name": "PC Organics Bananas", "brand": "President's Choice", "category": "Fruits", "unit": "lb", "price": 0.88, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?bananas&sig=311", "inStock": true },
-    { "id": "nofrills_fru_2",  "name": "no name Frozen Mango Chunks (600g)", "brand": "no name", "category": "Fruits", "unit": "bag", "price": 3.97, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?frozen%20mango&sig=312", "inStock": true },
-    { "id": "nofrills_fru_3",  "name": "Pink Lady Apples (3lb)", "brand": "", "category": "Fruits", "unit": "bag", "price": 4.97, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?pink%20lady%20apples&sig=313", "inStock": true },
-    { "id": "nofrills_fru_4",  "name": "Seedless Watermelon (1/2)", "brand": "", "category": "Fruits", "unit": "each", "price": 4.49, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?watermelon&sig=314", "inStock": true },
-    { "id": "nofrills_fru_5",  "name": "Blueberries (510g)", "brand": "", "category": "Fruits", "unit": "clamshell", "price": 5.97, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?blueberries&sig=315", "inStock": true },
-    { "id": "nofrills_fru_6",  "name": "Clementines (2lb)", "brand": "", "category": "Fruits", "unit": "bag", "price": 3.98, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?clementines&sig=316", "inStock": true },
-    { "id": "nofrills_fru_7",  "name": "Bartlett Pears", "brand": "", "category": "Fruits", "unit": "lb", "price": 1.48, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?pears&sig=317", "inStock": true },
-    { "id": "nofrills_fru_8",  "name": "Kiwi (6 pack)", "brand": "", "category": "Fruits", "unit": "pack", "price": 3.49, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?kiwi&sig=318", "inStock": true },
-    { "id": "nofrills_fru_9",  "name": "PC Organics Strawberries (454g)", "brand": "President's Choice", "category": "Fruits", "unit": "clamshell", "price": 4.99, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?strawberries&sig=319", "inStock": true },
-    { "id": "nofrills_fru_10", "name": "Lemons (2lb)", "brand": "", "category": "Fruits", "unit": "bag", "price": 3.29, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?lemons&sig=320", "inStock": true },
+    {
+  "id": "nofrills_fru_1",
+  "name": "PC Organics Bananas",
+  "brand": "President's Choice",
+  "category": "Fruits",
+  "unit": "lb",
+  "price": 0.88,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/340/482/6000205340482.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_2",
+  "name": "no name Frozen Mango Chunks (600g)",
+  "brand": "no name",
+  "category": "Fruits",
+  "unit": "bag",
+  "price": 3.97,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.com/asr/772300c2-e37e-47b4-aa1f-38fb9f515582.0b16be4176fb6f3de20b196fde1fe5ed.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_3",
+  "name": "Pink Lady Apples (3lb)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "bag",
+  "price": 4.97,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/836/878/6000196836878.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_4",
+  "name": "Seedless Watermelon (1/2)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "each",
+  "price": 4.49,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/737/785/6000205737785.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_5",
+  "name": "Blueberries (510g)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "clamshell",
+  "price": 5.97,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.com/asr/2a12b9b7-514b-4d06-b51a-f532038ce6c8.a22aaec62342a7c4e4eee005e9180106.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_6",
+  "name": "Clementines (2lb)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "bag",
+  "price": 3.98,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/009/934/6000201009934.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_7",
+  "name": "Bartlett Pears",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "lb",
+  "price": 1.48,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/-40/242/999999-40242.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_8",
+  "name": "Kiwi (6 pack)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "pack",
+  "price": 3.49,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/309/244/6000208309244.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_9",
+  "name": "PC Organics Strawberries (454g)",
+  "brand": "President's Choice",
+  "category": "Fruits",
+  "unit": "clamshell",
+  "price": 4.99,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/379/323/6000209379323.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+},
+{
+  "id": "nofrills_fru_10",
+  "name": "Lemons (2lb)",
+  "brand": "",
+  "category": "Fruits",
+  "unit": "bag",
+  "price": 3.29,
+  "currency": "CAD",
+  "image": "https://i5.walmartimages.ca/images/Enlarge/094/504/6000200094504.jpg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+  "inStock": true
+}
 
     
     { "id": "nofrills_bak_1",  "name": "no name White Bread (570g)", "brand": "no name", "category": "Bakery", "unit": "loaf", "price": 1.67, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?white%20bread&sig=321", "inStock": true },
